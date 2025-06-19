@@ -21,7 +21,7 @@ const Avatar = () => {
         />
         <div className="flex flex-col items-center text-center">
           <p className="font-mono antialiased text-4xl md:text-5xl font-bold text-white mb-1 tracking-wide">
-             Ps.<span className="font-serif font-normal text-4xl md:text-5xl text-white">Virginia González Ocampo</span>
+          <span className="font-serif font-normal text-4xl md:text-5xl text-white">Virginia González Ocampo</span>
           </p>
           <span className="font-serif antialiased text-2xl font-semibold text-white mb-2 tracking-wide">
             Lic. en Psicología 

@@ -17,7 +17,7 @@ const Avatar = () => {
         <img
           src={avatarImg}
           alt="avatar"
-          className="inline-block w-56 h-56 aspect-square object-cover object-[center_20%] rounded-full border-4 border-white bg-gray-200 mb-4"
+          className="inline-block w-56 h-56 aspect-square object-cover object-[center_10%] rounded-full border-4 border-white bg-gray-200 mb-4"
         />
         <div className="flex flex-col items-center text-center">
           <p className="font-mono antialiased text-4xl md:text-5xl font-bold text-white mb-1 tracking-wide">

@@ -17,82 +17,74 @@ const posts = [
   {
     img: autoestimaImg,
     title: "AUTOESTIMA",
-    short: "¿Sentís que nada de lo que hacés alcanza, que sos muy crítica/o con vos misma/o o que necesitás la aprobación de los demás para sentirte bien?",
-    full: `La forma en que te mirás influye en cada aspecto de tu vida: tus decisiones, tus vínculos y tu bienestar. Cuando la autoestima está debilitada, pueden aparecer la inseguridad, la autoexigencia y la dificultad para reconocer tu propio valor.
-
-Este espacio puede ayudarte a reconstruir ese vínculo con vos misma/o, reconocer tus fortalezas y desarrollar una mirada más amable y auténtica hacia quien sos.
-
-📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escribime al Whatsapp</a>. Estoy para acompañarte.`
+    short: "La forma en que te percibís influye en cada aspecto de tu vida: en tus vínculos, decisiones y bienestar emocional. Cuando la autoestima está dañada, aparecen la inseguridad, la autoexigencia excesiva y la dificultad para reconocer tu propio valor.",
+    full: `La forma en que te percibís influye en cada aspecto de tu vida: en tus vínculos, decisiones y bienestar emocional. Cuando la autoestima está dañada, aparecen la inseguridad, la autoexigencia excesiva y la dificultad para reconocer tu propio valor.
+En las sesiones trabajamos para reconstruir esa relación con vos misma/o, identificar las creencias que te limitan y acompañarte a desarrollar una mirada más compasiva, segura y auténtica.
+Si sentís que es momento de empezar a mirarte con más amabilidad y confianza, este puede ser un buen espacio para comenzar ese camino. 
+📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escríbeme al Whatsapp</a>. Estoy para acompañarte.`
   },
   {
     img: frustracionImg,
     title: "FRUSTRACIÓN",
-    short: "¿Te cuesta aceptar cuando algo no sale como esperabas? ¿Reaccionás con enojo, ansiedad o desánimo ante los imprevistos?",
-    full: `La frustración es una emoción natural, pero cuando se vuelve constante o intensa, puede generar malestar y afectar tu día a día.
-
-Tomarte un tiempo para explorar qué pensamientos y exigencias la alimentan puede ayudarte a afrontarla con más flexibilidad y calma, dándote espacio para crecer incluso en lo inesperado.
-
-📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escribime al Whatsapp</a>. Estoy para acompañarte.`
+    short: "La frustración es una emoción natural, pero cuando no sabemos cómo manejarla, puede generar malestar, bloquear nuestras acciones y afectar nuestras relaciones.",
+    full: `La frustración es una emoción natural, pero cuando no sabemos cómo manejarla, puede generar malestar, bloquear nuestras acciones y afectar nuestras relaciones.
+En las sesiones trabajamos en identificar las creencias que intensifican esa sensación de malestar, desarrollar estrategias para gestionar mejor las expectativas y fortalecer recursos personales para afrontar los desafíos de manera más flexible.
+Si sentís que la frustración está afectando tú día a día, este espacio puede ayudarte a comprenderla, regularla y transformarla en una oportunidad de crecimiento.
+📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escríbeme al Whatsapp</a>. Estoy para acompañarte.`
   },
   {
     img: ansiedadImg,
     title: "ANSIEDAD",
-    short: "¿Sentís que tu mente no se detiene, que vivís en alerta o que te cuesta relajarte aunque todo parezca estar bien?",
-    full: `La ansiedad puede expresarse de muchas formas: pensamientos constantes, tensión, insomnio o la necesidad de tener todo bajo control. Aunque es una emoción natural, cuando se vuelve intensa, interfiere con tu bienestar.
-
-Un espacio de acompañamiento puede ayudarte a comprender qué la provoca y a recuperar tu equilibrio, tu calma y tu claridad.
-
-📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escribime al Whatsapp</a>. Estoy para acompañarte.`
+    short: "La ansiedad puede aparecer de muchas formas: pensamientos repetitivos, tensión corporal, insomnio, miedo al futuro o necesidad de tener todo bajo control.",
+    full: `La ansiedad puede aparecer de muchas formas: pensamientos repetitivos, tensión corporal, insomnio, miedo al futuro o necesidad de tener todo bajo control. Aunque es una emoción natural, cuando se vuelve intensa o constante, interfiere con el bienestar y la vida cotidiana.
+En las sesiones trabajamos para entender qué la está generando, desarrollar estrategias para manejarla y ayudarte a recuperar la calma, la claridad y el equilibrio emocional.
+Si sentís que la ansiedad está afectando tú día a día, este espacio puede acompañarte a volver a vos y vivir con más tranquilidad.
+📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escríbeme al Whatsapp</a>. Estoy para acompañarte.`
   },
   {
     img: decisionesImg,
     title: "TOMA DE DECISIONES",
-    short: "¿Sentís que te bloqueás al tener que elegir, que dudás de vos misma/o o que te cuesta confiar en lo que decidís?",
-    full: `Tomar decisiones puede despertar ansiedad o miedo a equivocarse. A veces, esa inseguridad nos lleva a postergar elecciones importantes o a dejarlas en manos de otros.
-
-Explorar tus dudas, tus necesidades y tus valores puede ayudarte a elegir desde un lugar más claro y coherente con vos misma/o.
-
-📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escribime al Whatsapp</a>. Estoy para acompañarte.`
+    short: "Tomar decisiones puede generar ansiedad, miedo a equivocarse o la sensación de estar perdiendo algo con cada elección.",
+    full: `Tomar decisiones puede generar ansiedad, miedo a equivocarse o la sensación de estar perdiendo algo con cada elección. A veces, por temor o inseguridad, terminamos postergando o dejando que otros decidan por nosotras/os.
+En las sesiones trabajamos para identificar los bloqueos, ordenar las ideas y conectar con tus valores y necesidades. El objetivo no es decidir perfecto, sino poder elegir con más claridad, confianza y coherencia con vos misma/o.
+Si sentís que estás en un momento de decisiones importantes, este espacio puede ayudarte a tomar las riendas desde un lugar más consciente y seguro.
+📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escríbeme al Whatsapp</a>. Estoy para acompañarte.`
   },
   {
     img: estresImg,
     title: "ESTRÉS",
-    short: "¿Sentís que vivís corriendo, que no llegás a todo o que tu cuerpo te está pidiendo una pausa y no sabés cómo dártela?",
-    full: `El estrés sostenido puede afectar tu salud física y emocional. Aunque suele aparecer en contextos de mucha demanda, cuando se vuelve habitual, comienza a desgastarte.
-
-Detenerte, identificar qué lo genera y empezar a cuidar tus límites también es una forma de priorizarte y de reconectar con vos.
-
-📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escribime al Whatsapp</a>. Estoy para acompañarte.`
+    short: "El estrés sostenido puede afectar tu salud física y emocional: dolores corporales, insomnio, irritabilidad, ansiedad o sensación de estar al límite.",
+    full: `El estrés sostenido puede afectar tu salud física y emocional: dolores corporales, insomnio, irritabilidad, ansiedad o sensación de estar al límite. Aunque es una respuesta natural ante ciertas demandas, cuando se vuelve constante deja de ser útil y comienza a desgastarte.
+En las sesiones trabajamos para identificar las fuentes de estrés, repensar las exigencias internas y externas, y desarrollar herramientas para que puedas recuperar el equilibrio y priorizar tu bienestar.
+Si sentís que estás sobrepasada/o, este espacio puede ayudarte a ponerle un freno al desgaste y reconectar con vos.
+📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escríbeme al Whatsapp</a>. Estoy para acompañarte.`
   },
   {
     img: depresionImg,
     title: "DEPRESIÓN",
-    short: "¿Sentís que todo te cuesta, que perdiste el interés por lo que antes te gustaba o que la tristeza o el vacío están presentes a diario?",
-    full: `La depresión no siempre se ve como una gran tristeza. A veces se manifiesta en el desgano, el aislamiento, la irritabilidad o en una sensación de desconexión con la vida.
-
-Poder darle un espacio a lo que sentís y empezar a transitarlo con acompañamiento puede ayudarte a encontrar alivio y reconstruir lo que hoy parece roto.
-
-📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escribime al Whatsapp</a>. Estoy para acompañarte.`
+    short: "La depresión no siempre se ve como “estar triste”: a veces se manifiesta como apatía, irritabilidad, aislamiento, dificultades para concentrarte o una sensación persistente de no encontrarle sentido a nada.",
+    full: `La depresión no siempre se ve como “estar triste”: a veces se manifiesta como apatía, irritabilidad, aislamiento, dificultades para concentrarte o una sensación persistente de no encontrarle sentido a nada.
+En las sesiones trabajamos para comprender lo que estás atravesando, aliviar el sufrimiento y acompañarte a reconstruir el vínculo con vos misma/o, tus emociones y tu vida cotidiana.
+Si sentís que estás apagada/o o que no podés sola/o con lo que te pasa, no estás sola/o. Este espacio puede ser un primer paso hacia el desahogo y el acompañamiento que necesitás.
+📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escríbeme al Whatsapp</a>. Estoy para acompañarte.`
   },
   {
     img: tagImg,
     title: "Trastorno de Ansiedad Generalizada (TAG)",
-    short: "¿Te preocupás constantemente, incluso cuando no hay un motivo claro? ¿Sentís que tu mente no puede parar?",
-    full: `El TAG se caracteriza por una preocupación constante en distintas áreas de la vida. A veces, aun cuando todo parece estar bien, la mente anticipa lo peor.
-
-Encontrar herramientas que te ayuden a frenar ese ritmo mental y recuperar la calma puede ser un paso importante para sentirte más en paz.
-
-📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escribime al Whatsapp</a>. Estoy para acompañarte.`
+    short: "El Trastorno de Ansiedad Generalizada se caracteriza por una preocupación excesiva y persistente sobre distintas áreas de la vida.",
+    full: `El Trastorno de Ansiedad Generalizada se caracteriza por una preocupación excesiva y persistente sobre distintas áreas de la vida: salud, trabajo, vínculos, economía, el futuro... Aun cuando las cosas parecen estar bien, la mente sigue anticipando escenarios negativos.
+En las sesiones trabajamos para identificar los patrones de pensamiento que sostienen la preocupación constante, incorporar herramientas de autorregulación emocional y fortalecer tu capacidad para vivir con más calma, flexibilidad y presencia.
+Si sentís que tu ansiedad no se detiene y está interfiriendo en tu bienestar diario, este espacio puede ayudarte a recuperar la tranquilidad que tanto necesitás.
+📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escríbeme al Whatsapp</a>. Estoy para acompañarte.`
   },
   {
     img: tocImg,
     title: "Trastorno Obsesivo Compulsivo (TOC)",
-    short: "¿Tenés pensamientos que aparecen sin que los elijas o sentís que necesitás hacer ciertas acciones para sentirte tranquila/o?",
-    full: `El TOC puede expresarse a través de pensamientos repetitivos y acciones que generan alivio momentáneo pero también mucho desgaste. Aunque muchas veces se entiende que no son lógicos, la angustia es real.
-
-Poder entender cómo funciona este ciclo y encontrar formas nuevas de relacionarte con lo que te pasa puede ayudarte a sentirte más libre y en control.
-
-📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escribime al Whatsapp</a>. Estoy para acompañarte.`
+    short: "El TOC se manifiesta a través de obsesiones y compulsiones.",
+    full: `El TOC se manifiesta a través de obsesiones (pensamientos, imágenes o impulsos intrusivos, repetitivos y angustiantes) y compulsiones (conductas o actos mentales que se realizan para aliviar esa ansiedad). Aunque muchas personas saben que esos pensamientos no son racionales, la angustia que generan es muy real.
+En las sesiones trabajamos para entender cómo funciona el ciclo obsesivo-compulsivo, reducir la interferencia de estas conductas en tu vida cotidiana y desarrollar recursos para enfrentar la ansiedad sin necesidad de responder a la compulsión.
+Si sentís que tus pensamientos y rituales están interfiriendo con tu vida, este espacio puede ayudarte a retomar el control y recuperar tu bienestar.
+📥 Si te sentís identificada/o, <a href="${whatsappLink}" target="_blank" rel="noopener noreferrer" style="color:inherit;font-weight:normal;text-decoration:underline;">escríbeme al Whatsapp</a>. Estoy para acompañarte.`
   }
 ];
 

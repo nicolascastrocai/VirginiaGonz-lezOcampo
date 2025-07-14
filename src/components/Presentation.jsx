@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../assets/Concepto de corazón y cerebro Cociente emocional e inteligencia Icono y logotipo Emociones _ Vector Premium.jpeg';
+import logo from '../assets/WhatsApp Image 2025-06-30 at 11.22.12.jpeg';
 
 const aboutMeText = (
   <>
@@ -36,7 +36,7 @@ const Presentation = () => {
         <img
           src={logo}
           alt="Logo Virginia"
-          className="mx-auto mb-10 mt-10 w-32 h-32 object-cover border-4 border-pink-200 shadow"
+          className="mx-auto mb-10 mt-10 w-59 h-59 object-cover "
         />
         <h1 className="font-sans text-3xl md:text-4xl font-bold text-gray-800 mb-10 leading-tight">
           Bienvenid@ a tu espacio de bienestar.
